@@ -32,13 +32,13 @@ I'm not just a QA Engineer — I'm a *test whisperer*, and *quality gatekeeper* 
 ## 📌 Pinned Projects
 Here are a few test automation projects I’ve crafted with care and caffeine:
 
-- 🔹 **[ToDoAPI Test Framework](https://github.com/pvrano/ToDoApiTestFramework)**  
+- 🔹 **[BookStoreAPI Test Framework](https://github.com/pvrano/DemoQABookStoreApiTest)**  
   BDD-style API test framework using RestSharp + Reqnroll + NUnit. Neat, scalable, and reusable.
 
-- 🔹 **[Selenium NUnit UI Test Suite](https://github.com/pvrano/SeleniumNUnitPractice)**  
+- 🔹 **[Selenium NUnit UI Test Suite](https://github.com/pvrano/selenium-online-electronic-store-test)**  
   A quick playground for UI test cases on public automation sites.
 
-- 🔹 **[Playwright C# Experiments](https://github.com/pvrano/PlaywrightPractice)**  
+- 🔹 **[Playwright C# Experiments](https://github.com/pvrano/PlaywrightWithCSharp.git)**  
   Fast and flaky-free UI tests using Playwright + NUnit + Chromium.
 
 > 🔧 *Always experimenting. Always learning. Always shipping quality.*
