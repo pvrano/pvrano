@@ -2,7 +2,7 @@
 
 🚀 Software Quality Assurance and Automation Engineer 
 📍 Based in the UK | 🌐 [LinkedIn](https://www.linkedin.com/in/pvrano) 
-
+[Leetcode](https://leetcode.com/u/pvrano/)
 ---
 
 ## 🔍 Who am I?
