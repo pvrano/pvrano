@@ -21,7 +21,7 @@ I'm not just a QA Engineer — I'm a *test whisperer*, and *quality gatekeeper* 
 ---
 
 ## 🧪 My Testing Superpowers
-- 👩‍🔬 Behavior Driven Development (BDD)
+- 👩‍🔬 Page Object Design and Behavior Driven Development (BDD)
 - 🛡️ Building and maintaining regression test packs
 - 🤖 Automating UI & API tests
 - 🧰 Creating reusable test helpers to make life easier
